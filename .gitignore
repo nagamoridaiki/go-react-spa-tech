@@ -1,0 +1,6 @@
+/goapp/tmp
+/docker/mysql/db/mysql_data
+/reactapp/node_modules
+/reactapp/package-lock.json
+/reactapp/README.md
+/reactapp/.gitignore
